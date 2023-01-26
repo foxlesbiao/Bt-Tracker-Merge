@@ -1,1 +1,0 @@
-curl -s https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt | sed '/^$/d' | tr '\n' ',' | sed 's/,$//; s/^\(.*\)/bt-tracker=\1/'
