@@ -8,8 +8,8 @@ on:
 jobs:
   bot:
     runs-on: ubuntu-latest
-      steps:
+    steps:
       - name: 'Checkout codes'
         uses: actions/checkout@v1
-    - name: 'test_Bt'
-      run: bash ./bt.sh
+      - name: 'Get Tracker'
+        run: bash ./bt.sh
