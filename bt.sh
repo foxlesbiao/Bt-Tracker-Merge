@@ -1,4 +1,6 @@
 ##!/bin/bash
+mkdir tracker
+cd tracker
 ## 列表文件名
 LIST="tracker.txt"
 ## 临时文件处理
