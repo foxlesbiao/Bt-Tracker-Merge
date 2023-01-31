@@ -17,5 +17,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.TRACKER_TOKEN }}
+          PUBLISH_BRANCH: main
           publish_dir: ./tracker
 
