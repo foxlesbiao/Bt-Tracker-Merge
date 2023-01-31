@@ -16,7 +16,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-        github_token: ${{ secrets.HUGO_DEPLOY_TOKEN }}
+        github_token: ${{ secrets.DEPLOY_TOKEN }}
         PUBLISH_BRANCH: main
            PUBLISH_DIR: ./tracker
           commit_message: ${{ github.event.head_commit.message }}
