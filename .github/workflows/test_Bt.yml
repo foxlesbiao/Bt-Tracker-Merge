@@ -1,4 +1,4 @@
-name: test_Bt
+name: 'test_Bt'
 
 on:
   workflow_dispatch:
@@ -6,10 +6,10 @@ on:
      - cron: '0 21 * * *'
     
 jobs:
-  build:
+  bot:
     runs-on: ubuntu-latest
       steps:
       - name: 'Checkout codes'
         uses: actions/checkout@v1
-    - name: test_Bt
+    - name: 'test_Bt'
       run: bash ./bt.sh
