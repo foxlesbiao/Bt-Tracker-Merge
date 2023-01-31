@@ -15,5 +15,6 @@ jobs:
         run: bash ./bt.sh
       - name: 'Upload firmware directory'
         uses: actions/upload-artifact@main
-      - name: 'tracker.txt'
-        path: ${{env.FIRMWARE}}
+        with:
+          name: tracker.txt
+          path: ${{env.FIRMWARE}}
