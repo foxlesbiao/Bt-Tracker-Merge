@@ -11,4 +11,4 @@ jobs:
     
     steps:
     - name: test_Bt
-      run: bash bt.sh
+      run: bash ./bt.sh
