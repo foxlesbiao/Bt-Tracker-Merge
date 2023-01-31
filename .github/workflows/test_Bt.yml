@@ -18,5 +18,5 @@ jobs:
         with:
         github_token: ${{ secrets.HUGO_DEPLOY_TOKEN }}
         PUBLISH_BRANCH: main
-          PUBLISH_DIR: ./tracker.txt
+           PUBLISH_DIR: ./tracker
           commit_message: ${{ github.event.head_commit.message }}
