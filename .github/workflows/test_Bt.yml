@@ -8,6 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    steps:
+  - name: 'Checkout codes'
+    uses: actions/checkout@v1
     
     steps:
     - name: test_Bt
