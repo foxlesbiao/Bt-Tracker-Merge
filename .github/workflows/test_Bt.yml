@@ -16,6 +16,6 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          Tracker_token: ${{ secrets.TRACKER_TOKEN }}
           publish_dir: ./tracker
 
