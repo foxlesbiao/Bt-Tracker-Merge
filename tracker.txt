@@ -244,6 +244,7 @@ http://carbon-bonsai-621.appspot.com/announce
 http://carbon-bonsai-621.appspot.com:80/announce
 http://chouchou.top:8080/announce
 http://cloud.nyap2p.com:8080/announce
+http://cn.pcfreetime.com:6969/announce
 http://concen.org:6969/announce
 http://data-bg.net/announce.php
 http://data-bg.net:80/announce.php
@@ -481,6 +482,7 @@ http://tracker.openbittorrrent.com/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
+http://tracker.pcfreetime.com:6969/announce
 http://tracker.peckservers.com:9000/announce
 http://tracker.pimp4003.net/announce
 http://tracker.pow7.com/announce
@@ -686,6 +688,7 @@ https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.imgoingto.icu:443/announce
+https://tracker.ipfsscan.io/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.eu:443/announce
 https://tracker.iriseden.fr/announce
@@ -759,6 +762,7 @@ https://voxhost.fr/announce
 https://voxhost.fr:443/announce
 https://w.wwwww.wtf/announce
 https://w.wwwww.wtf:443/announce
+https://www.peckservers.com:9443/announce
 https://www.wareztorrent.com/announce
 https://www.wareztorrent.com:443/announce
 https://x7x.up.railway.app/announce
@@ -960,7 +964,6 @@ udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
-udp://tr2.cubonegro.lol:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x.tf:6969/announce
@@ -975,7 +978,7 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
-udp://tracker.btsync.gq:233/announce
+udp://tracker.breizh.pm:6969/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
