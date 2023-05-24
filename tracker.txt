@@ -244,7 +244,6 @@ http://carbon-bonsai-621.appspot.com/announce
 http://carbon-bonsai-621.appspot.com:80/announce
 http://chouchou.top:8080/announce
 http://cloud.nyap2p.com:8080/announce
-http://cn.pcfreetime.com:6969/announce
 http://concen.org:6969/announce
 http://data-bg.net/announce.php
 http://data-bg.net:80/announce.php
@@ -285,7 +284,6 @@ http://jp.moeweb.pw:6969/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce.php
 http://li1406-230.members.linode.com:6969/announce
-http://mail.lakameraobscura.com:6969/announce
 http://masters-tb.com/announce.php
 http://masters-tb.com:80/announce.php
 http://mediaclub.tv/announce
@@ -970,7 +968,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.altrosky.nl:6969/announce
-udp://tracker.arcbox.cc:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 udp://tracker.auctor.tv:6969/announce
@@ -979,7 +976,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
-udp://tracker.breizh.pm:6969/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
