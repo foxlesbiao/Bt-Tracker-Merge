@@ -285,7 +285,6 @@ http://jp.moeweb.pw:6969/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce.php
 http://li1406-230.members.linode.com:6969/announce
-http://mail.lakameraobscura.com:6969/announce
 http://masters-tb.com/announce.php
 http://masters-tb.com:80/announce.php
 http://mediaclub.tv/announce
@@ -339,6 +338,7 @@ http://prestige.minimafia.nl:443/announce
 http://private.minimafia.nl:443/announce
 http://proaudiotorrents.org/announce.php
 http://proaudiotorrents.org:80/announce.php
+http://region.nl1.privex.cc:6969/announce
 http://retracker.hotplug.ru:2710/announce
 http://retracker.joxnet.ru/announce
 http://retracker.joxnet.ru:80/announce
@@ -361,6 +361,7 @@ http://shogiroom.com:6969/announce
 http://siambit.com/announce.php
 http://siambit.com:80/announce.php
 http://siambit.org/announce.php
+http://smurfsoft.com:6969/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
 http://t.jaekr.sh:6969/announce
@@ -374,6 +375,7 @@ http://t2.pow7.com/announce
 http://t2.pow7.com:80/announce
 http://thetracker.org/announce
 http://thetracker.org:80/announce
+http://thitgaluoc.dynu.net:6969/announce
 http://tk.greedland.net/announce
 http://torrent-team.net/announce.php
 http://torrent-team.net:80/announce.php
@@ -632,6 +634,7 @@ https://t.btcland.xyz:443/announce
 https://t.quic.ws/announce
 https://t.quic.ws:443/announce
 https://t.zerg.pw/announce
+https://t.zerg.pw:443/announce
 https://t1.hloli.org/announce
 https://t1.hloli.org:443/announce
 https://t1.tokhmi.xyz/announce
@@ -798,6 +801,7 @@ udp://192.95.46.115:6969/announce
 udp://193.37.214.12:6969/announce
 udp://194.38.21.77:6969/announce
 udp://198.100.149.66:6969/announce
+udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
@@ -819,6 +823,7 @@ udp://51.159.54.68:6666/announce
 udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
+udp://62-210-114-129.rev.poneytelecom.eu:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://6rt.tace.ru:80/announce
 udp://82.65.115.10:6969/announce
@@ -875,7 +880,9 @@ udp://cutscloud.duckdns.org:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://discord.heihachi.pw:6969/announce
+udp://dmitrynegoda.com:6969/announce
 udp://download.nerocloud.me:6969/announce
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://edu.uifr.ru:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://engplus.ru:6969/announce
@@ -885,8 +892,10 @@ udp://explodie.org:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
+udp://fleira.no:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
+udp://freedomalternative.com:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://inferno.demonoid.is:3391/announce
@@ -912,9 +921,13 @@ udp://movies.zsw.ca:6969/announce
 udp://mserver.link:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
+udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
 udp://newtoncity.org:6969/announce
 udp://ns-1.x-fins.com:6969/announce
+udp://ns1.monolithindustries.com:6969/announce
+udp://ns575949.ip-51-222-82.net:6969/announce
+udp://nullzone.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
@@ -949,9 +962,11 @@ udp://shizzle.hammetjus.nl:6969/announce
 udp://slicie.icon256.com:8000/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://srv5.digiboy.ir:6969/announce
+udp://ssb14.nohost.me:6969/announce
 udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://t.133335.xyz:6969/announce
+udp://t.zerg.pw:6969/announce
 udp://t1.leech.ie:1337/announce
 udp://t2.leech.ie:1337/announce
 udp://tamas3.ynh.fr:6969/announce
@@ -979,8 +994,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
-udp://tracker.breizh.pm:6969/announce
-udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
@@ -1059,6 +1072,7 @@ udp://yann5.hexanyn.fr:6969/announce
 udp://z.mercax.com:53/announce
 udp://zecircle.xyz:6969/announce
 udp://zephir.monocul.us:6969/announce
+ws://hub.bugout.link:80/announce
 wss://qot.abiir.top:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.dnlab.net:443/announce
