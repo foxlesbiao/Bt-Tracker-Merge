@@ -10,6 +10,7 @@ TMPFILE=$(mktemp)
 curl -k {https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt,\
 http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt,\
 https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt,\
+http://t.acg.rip:6699/announce,\
 https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt,\
 https:trackerslist.com/all.txt\
 https://www.yaozuopan.top/dynamic/trackerlist.txt,\
