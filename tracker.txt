@@ -248,7 +248,6 @@ http://carbon-bonsai-621.appspot.com:80/announce
 http://ch3oh.ru:6969/announce
 http://chouchou.top:8080/announce
 http://cloud.nyap2p.com:8080/announce
-http://cn.pcfreetime.com:6969/announce
 http://concen.org:6969/announce
 http://data-bg.net/announce.php
 http://data-bg.net:80/announce.php
@@ -711,6 +710,7 @@ https://tracker.iriseden.eu:443/announce
 https://tracker.iriseden.fr/announce
 https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
+https://tracker.kawaii.id:443/announce
 https://tracker.kuroy.me/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.lelux.fi/announce
@@ -956,7 +956,6 @@ udp://ns557939.ip-54-39-48.net:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://nullzone.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
-udp://open-tracker.demonoid.ch:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
@@ -1031,7 +1030,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
-udp://tracker.breizh.pm:6969/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
@@ -1053,6 +1051,7 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.nrx.me:6969/announce
+udp://tracker.ocnix.net:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
