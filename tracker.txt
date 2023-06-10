@@ -281,6 +281,7 @@ http://houniao.ddns.net:8888/announce
 http://hzzwly.gq:6969/announce
 http://i.bandito.org/announce.php
 http://incine.ru:6969/announce
+http://ipv4.tracker.harry.lu/announce
 http://ipv4.tracker.harry.lu:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://ipv6.1337.cx:6969/announce
@@ -887,7 +888,6 @@ udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
-udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
@@ -901,7 +901,6 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://devops.gay:6969/announce
-udp://dex.email:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://dmitrynegoda.com:6969/announce
@@ -956,6 +955,7 @@ udp://ns557939.ip-54-39-48.net:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://nullzone.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
+udp://open-tracker.demonoid.ch:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
@@ -977,7 +977,6 @@ udp://psyco.fr:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://pxnet.ru:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -1030,6 +1029,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
+udp://tracker.breizh.pm:6969/announce
+udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
