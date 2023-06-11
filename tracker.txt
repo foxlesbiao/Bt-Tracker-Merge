@@ -679,6 +679,8 @@ https://tr.kxmp.cf:80/announce
 https://tr.nyacat.pw/announce
 https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
+https://tr.torland.ga/announce
+https://tr.torland.ga:443/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.baka.ink/announce
 https://tracker.baka.ink:443/announce
@@ -687,6 +689,7 @@ https://tracker.bt-hash.com/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.cangku.moe/announce
 https://tracker.cangku.moe:443/announce
+https://tracker.cloudit.top:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.crawfish.cf/announce
 https://tracker.cyber-hub.net/announce
@@ -888,6 +891,7 @@ udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
+udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
@@ -933,7 +937,6 @@ udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://llideong.cn:6969/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.realliferpg.de:6969/announce
@@ -949,6 +952,7 @@ udp://nagios.tks.sumy.ua:80/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
 udp://newtoncity.org:6969/announce
+udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns557939.ip-54-39-48.net:6969/announce
@@ -1030,7 +1034,6 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
-udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
@@ -1093,7 +1096,6 @@ udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://u4.trakx.crim.ist:1337/announce
-udp://u6.trakx.crim.ist:1337/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
