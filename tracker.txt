@@ -689,6 +689,7 @@ https://tracker.bt-hash.com/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.cangku.moe/announce
 https://tracker.cangku.moe:443/announce
+https://tracker.cloudit.top:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.crawfish.cf/announce
 https://tracker.cyber-hub.net/announce
@@ -938,7 +939,6 @@ udp://llideong.cn:6969/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.realliferpg.de:6969/announce
-udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
@@ -950,6 +950,7 @@ udp://nagios.tks.sumy.ua:80/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
 udp://newtoncity.org:6969/announce
+udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns557939.ip-54-39-48.net:6969/announce
