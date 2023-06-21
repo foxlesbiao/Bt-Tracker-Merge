@@ -248,7 +248,6 @@ http://carbon-bonsai-621.appspot.com:80/announce
 http://ch3oh.ru:6969/announce
 http://chouchou.top:8080/announce
 http://cloud.nyap2p.com:8080/announce
-http://cn.pcfreetime.com:6969/announce
 http://concen.org:6969/announce
 http://data-bg.net/announce.php
 http://data-bg.net:80/announce.php
@@ -825,6 +824,7 @@ udp://193.37.214.12:6969/announce
 udp://194.38.21.77:6969/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
@@ -892,7 +892,6 @@ udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
-udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
