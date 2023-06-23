@@ -61,6 +61,7 @@ http://185.185.40.51:6969/announce
 http://185.185.40.95:6969/announce
 http://185.197.195.20:1919/announce
 http://185.216.178.49:6969/announce
+http://185.230.4.150:1337/announce
 http://185.232.169.109/announce
 http://185.70.187.79:6969/announce
 http://187.57.14.62:6969/announce
@@ -821,6 +822,7 @@ udp://184.105.151.166:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
+udp://185.230.4.150:1337/announce
 udp://185.44.82.25:1337/announce
 udp://192.95.46.115:6969/announce
 udp://193.37.214.12:6969/announce
@@ -924,6 +926,7 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
+udp://ftp.pet:2710/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
@@ -1033,7 +1036,7 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
-udp://tracker.btsync.gq:233/announce
+udp://tracker.breizh.pm:6969/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
@@ -1092,7 +1095,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://trackerb.jonaslsa.com:6969/announce
-udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u.wwwww.wtf:1/announce
