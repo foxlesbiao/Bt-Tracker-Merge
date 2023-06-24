@@ -261,6 +261,7 @@ http://ehtracker.org/1/announce
 http://ehtracker.org/1104308/announce
 http://ehtracker.org/1113709/announce
 http://ehtracker.org/1226599/1080494xo5eXcwFOBq/announce
+http://ehtracker.org/2496841/announce
 http://fe.dealclub.de:6969/announce
 http://filetracker.xyz:11451/announce
 http://finbytes.org/announce.php
@@ -341,6 +342,7 @@ http://opentracker.xyz/announce
 http://opentracker.xyz:80/announce
 http://opentrackr.org:1337/announce
 http://p2p.0g.cx:6969/announce
+http://p4p.arenabg.com:1337/announce
 http://parag.rs:6969/announce
 http://peersteers.org/announce
 http://peersteers.org:80/announce
@@ -697,6 +699,7 @@ https://tracker.bt-hash.com/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.cangku.moe/announce
 https://tracker.cangku.moe:443/announce
+https://tracker.cloudit.top/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.coalition.space:443/announce
 https://tracker.crawfish.cf/announce
@@ -962,7 +965,6 @@ udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
-udp://open-tracker.demonoid.ch:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.8a.is:6969/announce
 udp://open.demonii.com:1337/announce
@@ -1036,7 +1038,7 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
-udp://tracker.breizh.pm:6969/announce
+udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
