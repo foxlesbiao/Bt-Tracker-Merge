@@ -267,6 +267,7 @@ http://ehtracker.org/1104308/announce
 http://ehtracker.org/1113709/announce
 http://ehtracker.org/1226599/1080494xo5eXcwFOBq/announce
 http://ehtracker.org/2496841/announce
+http://ehtracker.org/2566145/1159106xUfsJkT9Btg/announce
 http://fe.dealclub.de:6969/announce
 http://filetracker.xyz:11451/announce
 http://finbytes.org/announce.php
@@ -482,7 +483,6 @@ http://tracker.frozen-layer.net:6969/announce.php
 http://tracker.gbitt.info/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gcvchp.com:2710/announce
-http://tracker.gdp.pw:900/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.hiyj.cn/announce
@@ -558,6 +558,7 @@ http://tracker.xfapi.top:9999/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker.yoshi210.com:6969/announce
+http://tracker.yuelili.com/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker1.bt.moack.co.kr/announce
@@ -914,7 +915,6 @@ udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
-udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
 udp://camera.lei001.com:6969/announce
@@ -1059,7 +1059,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
@@ -1136,6 +1135,7 @@ udp://zecircle.xyz:6969/announce
 udp://zephir.monocul.us:6969/announce
 ws://hub.bugout.link:80/announce
 wss://qot.abiir.top:443/announce
+wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.dnlab.net:443/announce
 wss://tracker.files.fm:7073/announce
