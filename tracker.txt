@@ -487,7 +487,6 @@ http://tracker.frozen-layer.net:6969/announce.php
 http://tracker.gbitt.info/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gcvchp.com:2710/announce
-http://tracker.gdp.pw:900/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.hiyj.cn/announce
@@ -954,7 +953,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://freedomalternative.com:6969/announce
-udp://globalwave.no-ip.org:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv4.tracker.harry.lu/announce
@@ -1021,6 +1019,7 @@ udp://run.publictracker.xyz:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 udp://ryjer.com:6969/announce
 udp://sanincode.com:6969/announce
+udp://seedbay.net:2710/announce
 udp://shizzle.hammetjus.nl:6969/announce
 udp://slicie.icon256.com:8000/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
@@ -1063,6 +1062,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
+udp://tracker.breizh.pm:6969/announce
+udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
@@ -1071,7 +1072,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
