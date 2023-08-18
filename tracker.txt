@@ -118,6 +118,7 @@ http://45.67.35.111:6969/announce
 http://46.231.241.43:6969/announce
 http://47.243.23.189:6969/announce
 http://47.54.245.23:6969/announce
+http://49.12.76.8:6961/announce
 http://49.12.76.8:8080/announce
 http://5.182.206.171:1096/announce
 http://5.188.6.45:6969/announce
@@ -142,6 +143,7 @@ http://61.222.178.227:6969/announce
 http://61.222.178.254:6969/announce
 http://62.182.85.138:666/announce
 http://65.108.2.176:2710/announce
+http://65.130.205.148:9000/announce
 http://75.127.14.224:2710/announce
 http://79.137.198.96:6969/announce
 http://83.31.190.19:6969/announce
@@ -165,6 +167,7 @@ http://83.6.232.23:6969/announce
 http://83.6.234.75:6969/announce
 http://83.6.237.118:6969/announce
 http://88.99.189.199:6969/announce
+http://91.224.92.110:6969/announce
 http://93.158.213.92:1337/announce
 http://93.88.129.16/announce
 http://95.107.48.115/announce
@@ -606,6 +609,7 @@ http://widemus.de:6969/announce
 http://www.all4nothin.net/announce.php
 http://www.all4nothin.net:80/announce.php
 http://www.ansktracker.net/announce.php
+http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.bitseduce.com/announce.php
 http://www.chouchou.club:8080/announce
@@ -959,7 +963,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
-udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
@@ -988,6 +991,7 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.4ever.tk:6969/announce
+udp://open.8a.is:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
@@ -1052,7 +1056,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
-udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.artixlinux.org:6969/announce
@@ -1062,7 +1065,7 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
-udp://tracker.breizh.pm:6969/announce
+udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
@@ -1071,6 +1074,7 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
