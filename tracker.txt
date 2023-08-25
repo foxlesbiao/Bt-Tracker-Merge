@@ -1010,6 +1010,7 @@ udp://psyco.fr:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
+udp://pxnet.ru:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -1054,7 +1055,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
-udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.artixlinux.org:6969/announce
