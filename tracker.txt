@@ -417,6 +417,7 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
+http://torrent.nwps.ws:80/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://torrent.unix-ag.uni-kl.de:80/announce
@@ -672,7 +673,6 @@ https://evening-badlands-6215.herokuapp.com/announce
 https://grifon.info:80/announce
 https://hcbt.pp.ua/announce
 https://inferno.demonoid.is/announce
-https://k.avc.cx:443/announce
 https://k.avc.cx:443/announce.php
 https://k3tracker.cc/announce
 https://nyaa.tracker.wf:7777/announce
@@ -1034,9 +1034,7 @@ udp://run-2.publictracker.xyz:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 udp://ryjer.com:6969/announce
-udp://sabross.xyz:6969/announce
 udp://sanincode.com:6969/announce
-udp://seedbay.net:2710/announce
 udp://shizzle.hammetjus.nl:6969/announce
 udp://slicie.icon256.com:8000/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
@@ -1061,7 +1059,6 @@ udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
-udp://tr2.ysagin.top:2715/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x.tf:6969/announce
@@ -1087,7 +1084,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
