@@ -1,6 +1,7 @@
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
+http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://104.143.10.186:8000/announce
 http://104.244.77.14:1337/announce
@@ -349,7 +350,6 @@ http://open.touki.ru:80/announce.php
 http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz/announce
 http://open.trackerlist.xyz:80/announce
-http://open.va.wiki:900/announce
 http://openbittorrent.com/announce
 http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
@@ -589,6 +589,7 @@ http://tracker.zerobytes.xyz:1337/announce
 http://tracker1.bt.moack.co.kr/announce
 http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com:8080/announce
+http://tracker1.torrentino.com/announce
 http://tracker2.ctix.cn:2095/announce
 http://tracker2.dler.org/announce
 http://tracker2.dler.org:80/announce
@@ -1000,7 +1001,6 @@ udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://llideong.cn:6969/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.realliferpg.de:6969/announce
@@ -1029,6 +1029,7 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
+udp://open.xxtor.com:3074/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
@@ -1114,6 +1115,7 @@ udp://tracker.istole.it:80/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
+udp://tracker.netmap.top:6969/announce
 udp://tracker.nrx.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
@@ -1153,7 +1155,6 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u.wwwww.wtf:1/announce
