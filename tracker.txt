@@ -350,7 +350,6 @@ http://open.touki.ru:80/announce.php
 http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz/announce
 http://open.trackerlist.xyz:80/announce
-http://open.va.wiki:900/announce
 http://openbittorrent.com/announce
 http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
@@ -671,6 +670,7 @@ https://bittorrent.gongt.net/announce
 https://bittorrent.gongt.net:443/announce
 https://bt.080609.xyz/announce
 https://bt.080609.xyz:443/announce
+https://bt.beatrice-raws.org/announce
 https://bt.endpot.com/announce
 https://bt.nfshost.com/announce
 https://bt.nfshost.com:443/announce
@@ -989,6 +989,7 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
+udp://freedomalternative.com:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://hz.is:1337/announce
@@ -1119,6 +1120,7 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
+udp://tracker.netmap.top:6969/announce
 udp://tracker.nrx.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
