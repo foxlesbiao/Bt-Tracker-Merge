@@ -240,7 +240,6 @@ http://bt.okmp3.ru:2710/announce
 http://bt.poletracker.org:2710/announce
 http://bt.rghost.net/announce
 http://bt.rghost.net:80/announce
-http://bt.xcty.eu.org:2095/announce
 http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -961,7 +960,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
 udp://bt.rer.lol:2710/announce
-udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -992,7 +990,6 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://freedomalternative.com:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://hz.is:1337/announce
@@ -1118,7 +1115,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.netmap.top:6969/announce
 udp://tracker.nrx.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
