@@ -517,6 +517,7 @@ http://tracker.iro.moe/announce
 http://tracker.istole.it/announce
 http://tracker.k.vu:6969/announce
 http://tracker.kali.org:6969/announce
+http://tracker.leena.network:6969/announce
 http://tracker.lelux.fi/announce
 http://tracker.lelux.fi:80/announce
 http://tracker.letpo.com/announce
@@ -719,6 +720,7 @@ https://tk.mabo.ltd/announce
 https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net/announce
 https://torrent-tracker.hama3.net:443/announce
+https://torrent.opiums.eu:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://torrent.ubuntu.com/announce
 https://torrent.ubuntu.com:443/announce
@@ -748,6 +750,7 @@ https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
 https://tr.torland.ga:443/announce
 https://track3r.site:443/announce
+https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.baka.ink/announce
 https://tracker.baka.ink:443/announce
@@ -950,6 +953,7 @@ udp://admin.52ywp.com:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
+udp://api.boletera.org:3074/announce
 udp://app.icon256.com:8000/announce
 udp://astrr.ru:6969/announce
 udp://bananas.space:6969/announce
@@ -1073,7 +1077,6 @@ udp://ssb14.nohost.me:6969/announce
 udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
-udp://t.overflow.biz:6969/announce
 udp://t.zerg.pw:6969/announce
 udp://t1.leech.ie:1337/announce
 udp://t2.leech.ie:1337/announce
@@ -1172,6 +1175,7 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+udp://ttr.croco.net:6969/announce
 udp://u.peer-exchange.download:6969/announce
 udp://u.wwwww.wtf:1/announce
 udp://u4.trakx.crim.ist:1337/announce
