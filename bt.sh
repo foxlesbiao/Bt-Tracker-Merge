@@ -12,7 +12,15 @@ http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt,\
 https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt,\
 http://t.acg.rip:6699/announce,\
 https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt,\
-https:trackerslist.com/all.txt\
+https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_udp.txt,\
+https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_https.txt,\
+https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_http.txt,\
+https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_ws.txt,\
+https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_ip.txt,\
+https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_best.txt,\
+https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_best_ip.txt,\
+https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_bad.txt,\
+https:trackerslist.com/all.txt,\
 https://www.yaozuopan.top/dynamic/trackerlist.txt,\
 https://newtrackon.com/api/live,\
 http://plugin.xl7.xunlei.com/7.9/normal/trackers.json} > ${TMPFILE}
