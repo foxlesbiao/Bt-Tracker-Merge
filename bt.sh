@@ -13,6 +13,13 @@ https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http.txt,\
 https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/nohttp.txt,\
 http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt,\
 https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt,\
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt,\
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt,\
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt,\
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt,\
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt,\
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt,\
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt,\
 http://t.acg.rip:6699/announce,\
 https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt,\
 https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_udp.txt,\
