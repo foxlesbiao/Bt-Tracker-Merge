@@ -59,10 +59,9 @@ http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
-http://178.42.50.28:6969/announce
 http://179.100.24.134:6969/announce
-http://179.98.51.47:6969/announce
 http://180.97.219.76:8070/announce
+http://181.214.58.63:6969/announce
 http://184.61.17.58:9000/announce
 http://185.130.47.2:6969/announce
 http://185.148.3.231/announce
@@ -74,6 +73,7 @@ http://185.216.178.49:6969/announce
 http://185.230.4.150:1337/announce
 http://185.232.169.109/announce
 http://185.70.187.79:6969/announce
+http://187.10.24.146:6969/announce
 http://187.57.14.62:6969/announce
 http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
@@ -173,6 +173,7 @@ http://83.31.33.73:6969/announce
 http://83.6.208.20:6969/announce
 http://83.6.209.31:6969/announce
 http://83.6.211.179:6969/announce
+http://83.6.219.206:6969/announce
 http://83.6.220.156:6969/announce
 http://83.6.223.8:6969/announce
 http://83.6.226.63:6969/announce
@@ -183,8 +184,8 @@ http://83.6.234.75:6969/announce
 http://83.6.237.118:6969/announce
 http://88.99.189.199:6969/announce
 http://91.224.92.110:6969/announce
+http://92.249.48.222:6969/announce
 http://93.158.213.92:1337/announce
-http://93.185.165.29:6969/announce
 http://93.88.129.16/announce
 http://95.107.48.115/announce
 http://95.107.48.115:80/announce
@@ -441,6 +442,7 @@ http://thitgaluoc.dynu.net:6969/announce
 http://tk.greedland.net/announce
 http://tk.greedland.net:80/announce
 http://tk2.greedland.net/announce
+http://tor.rev.pm:6969/announce
 http://torrent-team.net/announce.php
 http://torrent-team.net:80/announce.php
 http://torrent-tracker.ru/announce.php
@@ -577,6 +579,7 @@ http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net80/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.rev.pm:6969/announce
 http://tracker.sakurato.art:23333/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.servequake.com:9999/announce
@@ -890,7 +893,6 @@ https://tracker2.ctix.cn/announce
 https://tracker2.ctix.cn:443/announce
 https://trackers.mlsub.net/announce
 https://trackers.mlsub.net:443/announce
-https://trackers.ptlsp.com:443/announce
 https://trackers.run:443/announce
 https://trackme.theom.nz/announce
 https://trackme.theom.nz:443/announce
@@ -926,9 +928,11 @@ udp://130.61.158.165:6969/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
 udp://138.124.183.78:6969/announce
+udp://143.198.64.177:6969/announce
 udp://144.91.88.22:6969/announce
 udp://148.251.53.72:6969/announce
 udp://15.204.56.171:6969/announce
+udp://15.204.57.168:6969/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
 udp://161.97.67.210:6969/announce
@@ -942,8 +946,8 @@ udp://176.56.6.248:6969/announce
 udp://176.99.7.59:6969/announce
 udp://178.170.48.154:1337/announce
 udp://178.32.222.98:3391/announce
-udp://178.42.50.28:6969/announce
 udp://179.43.155.30:6969/announce
+udp://181.214.58.63:6969/announce
 udp://184.105.226.26:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
@@ -970,11 +974,9 @@ udp://211.75.29.254:6969/announce
 udp://217.30.10.77:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
-udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
-udp://34.89.51.235:6969/announce
+udp://34.94.76.146:6969/announce
 udp://35.227.59.57:1337/announce
-udp://35.227.59.57:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.235.176.37:2710/announce
@@ -994,10 +996,10 @@ udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
-udp://51.222.82.36:6969/announce
 udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
+udp://54.39.48.3:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://62.138.18.152:6969/announce
 udp://62.210.114.129:6969/announce
@@ -1005,19 +1007,18 @@ udp://64.23.195.62:6969/announce
 udp://66.160.128.46:1337/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://6rt.tace.ru:80/announce
-udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
-udp://85.239.33.28:6969/announce
+udp://83.6.219.206:6969/announce
 udp://88.216.2.71:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
+udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://91.238.104.240:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
@@ -1095,7 +1096,6 @@ udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.realliferpg.de:6969/announce
@@ -1132,7 +1132,6 @@ udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
-udp://oscar.reyesleon.xyz:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://pow7.com:80/announce
