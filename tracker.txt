@@ -106,6 +106,7 @@ http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
+http://35.227.59.57:80/announce
 http://37.235.174.46:2710/announce
 http://38.145.197.79:6961/announce
 http://43.139.20.56:6969/announce
@@ -181,9 +182,7 @@ http://83.6.234.75:6969/announce
 http://83.6.237.118:6969/announce
 http://88.99.189.199:6969/announce
 http://91.224.92.110:6969/announce
-http://92.249.48.222:6969/announce
 http://93.158.213.92:1337/announce
-http://93.185.165.29:6969/announce
 http://93.88.129.16/announce
 http://95.107.48.115/announce
 http://95.107.48.115:80/announce
@@ -782,7 +781,6 @@ https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
 https://tr.torland.ga:443/announce
-https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.baka.ink/announce
 https://tracker.baka.ink:443/announce
@@ -911,7 +909,6 @@ udp://103.122.21.50:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://104.244.77.14:1337/announce
-udp://104.244.77.87:6969/announce
 udp://107.175.221.194:6969/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
@@ -925,6 +922,7 @@ udp://130.61.158.165:6969/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
 udp://138.124.183.78:6969/announce
+udp://143.198.64.177:6969/announce
 udp://144.91.88.22:6969/announce
 udp://148.251.53.72:6969/announce
 udp://15.204.56.171:6969/announce
@@ -968,9 +966,9 @@ udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
 udp://23.163.56.66:6969/announce
 udp://34.89.51.235:1337/announce
+udp://34.89.51.235:6969/announce
 udp://34.94.76.146:1337/announce
 udp://34.94.76.146:6969/announce
-udp://35.227.59.57:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.235.176.37:2710/announce
@@ -987,6 +985,7 @@ udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
+udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.222.82.36:6969/announce
@@ -1000,9 +999,11 @@ udp://64.23.195.62:6969/announce
 udp://66.160.128.46:1337/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://6rt.tace.ru:80/announce
+udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
 udp://83.31.187.110:6969/announce
+udp://85.239.33.28:6969/announce
 udp://88.216.2.71:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
@@ -1046,7 +1047,6 @@ udp://bt.oiyo.tk:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
-udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
 udp://camera.lei001.com:6969/announce
