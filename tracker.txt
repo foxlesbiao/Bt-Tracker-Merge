@@ -63,7 +63,6 @@ http://171.104.226.87:6969/announce
 http://178.42.152.183:6969/announce
 http://179.100.24.134:6969/announce
 http://180.97.219.76:8070/announce
-http://181.214.58.63:6969/announce
 http://184.61.17.58:9000/announce
 http://185.130.47.2:6969/announce
 http://185.148.3.231/announce
@@ -123,6 +122,7 @@ http://45.154.253.6:80/announce
 http://45.154.253.7/announce
 http://45.154.253.8/announce
 http://45.154.253.9/announce
+http://45.154.96.33:6969/announce
 http://45.154.98.215:6969/announce
 http://45.63.111.135:2710/announce
 http://45.63.111.135:6961/announce
@@ -135,6 +135,7 @@ http://47.54.245.23:6969/announce
 http://49.12.76.8:6961/announce
 http://49.12.76.8:8080/announce
 http://5.182.206.171:1096/announce
+http://5.182.86.242:6969/announce
 http://5.188.6.45:6969/announce
 http://5.78.67.213:6699/announce
 http://504e163a.host.njalla.net:6969/announce
@@ -222,6 +223,7 @@ http://big-boss-tracker.net/announce.php
 http://bigfoot1942.sektori.org:6969/announce
 http://bithq.org/announce.php
 http://bithq.org:80/announce.php
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://blackz.ro/announce.php
 http://bluebird-hd.org/announce.php
 http://bluebird-hd.org:80/announce.php
@@ -740,7 +742,6 @@ https://pybittrack.retiolus.net:443/announce
 https://seeders-paradise.org/announce
 https://t.btcland.xyz/announce
 https://t.btcland.xyz:443/announce
-https://t.peer-exchange.download:443/announce
 https://t.quic.ws/announce
 https://t.quic.ws:443/announce
 https://t.zerg.pw/announce
@@ -908,6 +909,7 @@ udp://10.rarbg.com/announce
 udp://103.122.21.50:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
+udp://104.244.77.14:1337/announce
 udp://104.244.77.87:6969/announce
 udp://107.175.221.194:6969/announce
 udp://109.201.134.183:80/announce
@@ -934,15 +936,12 @@ udp://163.172.29.130:80/announce
 udp://167.99.185.219:6969/announce
 udp://172.105.235.127:6969/announce
 udp://173.249.201.201:6969/announce
-udp://176.123.1.180:6969/announce
 udp://176.31.250.174:6969/announce
-udp://176.56.6.248:6969/announce
 udp://176.99.7.59:6969/announce
 udp://178.170.48.154:1337/announce
 udp://178.32.222.98:3391/announce
 udp://178.42.152.183:6969/announce
 udp://179.43.155.30:6969/announce
-udp://181.214.58.63:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
@@ -967,13 +966,14 @@ udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
 udp://23.163.56.66:6969/announce
 udp://34.89.51.235:1337/announce
-udp://34.94.76.146:6969/announce
+udp://35.227.59.57:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.235.176.37:2710/announce
 udp://37.27.4.53:6969/announce
 udp://37.59.48.81:6969/announce
 udp://45.135.134.94:6969/announce
+udp://45.154.96.33:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
@@ -991,8 +991,8 @@ udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
-udp://62.138.18.152:6969/announce
 udp://62.210.114.129:6969/announce
+udp://64.23.195.62:6969/announce
 udp://66.160.128.46:1337/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://6rt.tace.ru:80/announce
@@ -1003,13 +1003,12 @@ udp://85.239.33.28:6969/announce
 udp://88.216.2.71:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
-udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
 udp://91.211.5.21:6969/announce
-udp://91.238.104.240:6969/announce
+udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -1035,6 +1034,7 @@ udp://astrr.ru:6969/announce
 udp://bananas.space:6969/announce
 udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
@@ -1042,6 +1042,7 @@ udp://bt.oiyo.tk:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
+udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
 udp://camera.lei001.com:6969/announce
@@ -1078,11 +1079,13 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
+udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
+udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.realliferpg.de:6969/announce
