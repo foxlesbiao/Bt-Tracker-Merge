@@ -1,7 +1,6 @@
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
-http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://104.143.10.186:8000/announce
 http://104.244.77.14:1337/announce
@@ -16,6 +15,7 @@ http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
 http://119.28.71.45:8080/announce
+http://125.227.79.123:6969/announce
 http://125.227.79.123:80/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
@@ -92,7 +92,6 @@ http://207.246.79.17:8080/announce
 http://209.209.112.121:2710/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.23.142.127:6969/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://217.30.10.18:6969/announce
@@ -105,7 +104,6 @@ http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
-http://34.94.76.146:80/announce
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
 http://35.227.59.57:80/announce
@@ -916,15 +914,17 @@ udp://10.rarbg.com/announce
 udp://103.122.21.50:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
+udp://104.244.77.14:1337/announce
 udp://107.175.221.194:6969/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
 udp://119.28.71.45:8080/announce
-udp://120.36.84.13:2710/announce
-udp://120.36.84.13:6969/announce
 udp://121.199.16.229:6969/announce
+udp://125.227.79.123:6969/announce
+udp://125.227.79.123:80/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
+udp://138.124.183.78:6969/announce
 udp://142.132.183.104:6969/announce
 udp://143.198.64.177:6969/announce
 udp://144.91.88.22:6969/announce
@@ -953,6 +953,7 @@ udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 udp://185.87.45.163:6969/announce
 udp://186.10.172.11:1337/announce
+udp://190.146.242.81:6969/announce
 udp://192.95.46.115:6969/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
@@ -963,7 +964,6 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
-udp://211.23.142.127:6969/announce
 udp://211.75.29.254:6969/announce
 udp://217.30.10.77:6969/announce
 udp://23.134.89.9:1337/announce
@@ -971,9 +971,12 @@ udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
+udp://27.151.84.116:2710/announce
 udp://34.89.51.235:1337/announce
 udp://34.89.51.235:6969/announce
 udp://34.94.76.146:6969/announce
+udp://35.227.59.57:1337/announce
+udp://35.227.59.57:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.59.48.81:6969/announce
@@ -982,6 +985,7 @@ udp://46.138.242.240:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://49.12.76.8:8080/announce
 udp://5.102.159.190:6969/announce
+udp://5.181.156.41:6969/announce
 udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
@@ -1007,11 +1011,11 @@ udp://88.216.2.71:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.110.76.229:6969/announce
-udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
 udp://91.211.5.21:6969/announce
+udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -1038,6 +1042,7 @@ udp://bananas.space:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
@@ -1151,6 +1156,7 @@ udp://ssb14.nohost.me:6969/announce
 udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
+udp://t.overflow.biz:6969/announce
 udp://t.zerg.pw:6969/announce
 udp://t1.leech.ie:1337/announce
 udp://t2.leech.ie:1337/announce
