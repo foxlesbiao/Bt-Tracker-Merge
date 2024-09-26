@@ -59,6 +59,7 @@ http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
+http://177.172.63.135:6969/announce
 http://179.100.24.134:6969/announce
 http://180.97.219.76:8070/announce
 http://184.61.17.58:9000/announce
@@ -72,7 +73,6 @@ http://185.216.178.49:6969/announce
 http://185.230.4.150:1337/announce
 http://185.232.169.109/announce
 http://185.70.187.79:6969/announce
-http://187.56.205.90:6969/announce
 http://187.57.14.62:6969/announce
 http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
@@ -883,7 +883,6 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.torrentsnows.com/announce
 https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win/announce
-https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:443/announce
 https://tracker.yemekyedim.com:443/announce
@@ -898,7 +897,6 @@ https://tracker2.ctix.cn/announce
 https://tracker2.ctix.cn:443/announce
 https://trackers.mlsub.net/announce
 https://trackers.mlsub.net:443/announce
-https://trackers.run:443/announce
 https://trackme.theom.nz/announce
 https://trackme.theom.nz:443/announce
 https://trakx.herokuapp.com/announce
@@ -934,8 +932,8 @@ udp://142.132.183.104:6969/announce
 udp://143.198.64.177:6969/announce
 udp://144.91.88.22:6969/announce
 udp://148.251.53.72:6969/announce
+udp://15.204.205.14:6969/announce
 udp://15.204.56.171:6969/announce
-udp://15.204.57.168:6969/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
 udp://161.97.67.210:6969/announce
@@ -965,10 +963,9 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
-udp://209.141.59.16:6969/announce
 udp://211.75.29.254:6969/announce
 udp://217.30.10.77:6969/announce
-udp://23.134.88.9:1337/announce
+udp://23.134.89.9:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
 udp://23.157.120.14:6969/announce
@@ -977,14 +974,15 @@ udp://27.151.84.97:2710/announce
 udp://27.151.84.97:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
+udp://37.235.176.37:2710/announce
 udp://37.59.48.81:6969/announce
 udp://45.63.30.114:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
-udp://46.29.162.181:6961/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://49.12.76.8:8080/announce
 udp://5.102.159.190:6969/announce
+udp://5.181.156.41:6969/announce
 udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
@@ -992,10 +990,10 @@ udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
-udp://51.222.82.36:6969/announce
 udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
+udp://54.39.48.3:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://62.210.114.129:6969/announce
 udp://64.23.195.62:6969/announce
@@ -1008,12 +1006,12 @@ udp://85.239.33.28:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.110.76.229:6969/announce
-udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
 udp://91.211.5.21:6969/announce
+udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -1110,6 +1108,7 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
+udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si/announce
@@ -1133,6 +1132,7 @@ udp://qtstm32fan.ru:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
+udp://retracker.lanta.me:2710/announce
 udp://retracker.netbynet.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://run-2.publictracker.xyz:6969/announce
@@ -1161,7 +1161,6 @@ udp://thetracker.org:80/announce
 udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
-udp://tk1v6.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://torrentclub.online:54123/announce
