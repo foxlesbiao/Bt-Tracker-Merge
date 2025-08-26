@@ -229,8 +229,6 @@ http://anidex.moe:6969/announce
 http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.partis.si:80/announce
-http://asiatorrent.ddns.net:51413/announce
-http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv/announce
@@ -376,7 +374,6 @@ http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://mvgforumtracker.mvgroup.org/tracker.php:80/announce
 http://mvgforumtracker.mvgroup.org:80/tracker.php/announce
 http://mvgroup.org:2710/announce
-http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.8a.is:6969/announce
 http://open.acgnxtracker.com/announce
@@ -495,6 +492,7 @@ http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 http://tracker-cdn.moeking.me:2095/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
@@ -685,6 +683,7 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://vps02.net.orel.ru/announce
 http://vps02.net.orel.ru:80/announce
 http://web.open-tracker.cf:6969/announce
+http://wegkxfcivgx.ydns.eu:80/announce
 http://wepzone.net:6969/announce
 http://wg.mortis.me:6969/announce
 http://widemus.de:6969/announce
