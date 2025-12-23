@@ -443,6 +443,7 @@ http://t1.pow7.com/announce
 http://t1.pow7.com:80/announce
 http://t2.pow7.com/announce
 http://t2.pow7.com:80/announce
+http://taciturn-shadow.spb.ru:6969/announce
 http://thetracker.org/announce
 http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
@@ -786,7 +787,8 @@ https://torrents.linuxmint.com/announce.php
 https://torrents.linuxmint.com:443/announce.php
 https://tp.m-team.cc/announce.php
 https://tp.m-team.cc:443/announce.php
-https://tr-zhuqiy-2.dgj055.icu:443/announce
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
+https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga/announce
@@ -1129,7 +1131,6 @@ udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://new-line.net:6969/announce
 udp://newtoncity.org:6969/announce
-udp://node01.torrentonline.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
 udp://node02.torrentonline.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
@@ -1211,6 +1212,7 @@ udp://tracker.artixlinux.org:6969/announce
 udp://tracker.auctor.tv:6969/announce
 udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
+udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
@@ -1232,6 +1234,7 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
@@ -1305,7 +1308,6 @@ udp://www.torrent.eu.org:451/announce
 udp://yahor.ftp.sh:6969/announce
 udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
-udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://zecircle.xyz:6969/announce
 udp://zephir.monocul.us:6969/announce
