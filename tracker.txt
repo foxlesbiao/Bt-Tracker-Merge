@@ -1,6 +1,7 @@
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
+http://0123456789nonexistent.com:80/announce
 http://0d.kebhana.mx:443/announce
 http://104.143.10.186:8000/announce
 http://104.244.77.14:1337/announce
@@ -20,6 +21,7 @@ http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
+http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
 http://140.82.21.192:8080/announce
 http://141.144.224.250:2710/announce
@@ -34,6 +36,7 @@ http://156.234.201.18/announce
 http://156.234.201.18:80/announce
 http://157.90.169.123/announce
 http://158.101.137.177:6969/announce
+http://159.195.43.181:6969/announce
 http://159.69.65.157:6969/announce
 http://160.251.78.190:6969/announce
 http://163.172.209.40/announce
@@ -91,8 +94,7 @@ http://209.209.112.121:2710/announce
 http://209.50.255.93:3218/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.188:80/announce
-http://211.75.210.221:6969/announce
+http://211.75.205.187:6969/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://216.144.239.90:6969/announce
@@ -100,6 +102,7 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
+http://34.66.57.33:11450/announce
 http://34.66.57.33:2710/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
@@ -154,7 +157,7 @@ http://60-fps.org/bt/announce.php
 http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt:80/announce.php
-http://60.249.37.20:6969/announce
+http://60.249.37.20:80/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.166.123:6969/announce
@@ -513,6 +516,7 @@ http://tracker.computel.fr:80/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.corpscorp.online/announce
 http://tracker.corpscorp.online:80/announce
+http://tracker.darkness.services:6969/announce
 http://tracker.darmowy-torrent.pl:80/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
@@ -547,6 +551,7 @@ http://tracker.ghostchu-services.top:80/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.hiyj.cn/announce
+http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.org/announce
 http://tracker.ipv6tracker.org:80/announce
@@ -559,7 +564,6 @@ http://tracker.lelux.fi:80/announce
 http://tracker.letpo.com/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.lintk.me:2710/announce
-http://tracker.memelords.xyz:80/announce
 http://tracker.merded.xyz00/announce
 http://tracker.minglong.org80/announce
 http://tracker.minglong.org:8080/announce
@@ -935,7 +939,6 @@ https://zer0day.000webhostapp.com/announce
 udp://10.rarbg.com/announce
 udp://101.99.94.187:6969/announce
 udp://103.122.21.50:6969/announce
-udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://107.175.221.194:6969/announce
@@ -954,6 +957,7 @@ udp://148.251.53.72:6969/announce
 udp://152.249.214.23:6969/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
+udp://159.195.43.181:6969/announce
 udp://161.97.67.210:6969/announce
 udp://163.172.29.130:80/announce
 udp://167.99.185.219:6969/announce
@@ -979,16 +983,15 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
+udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
-udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
 udp://23.137.251.45:6969/announce
-udp://23.175.184.30:23333/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
 udp://37.120.182.83:15480/announce
@@ -1027,12 +1030,12 @@ udp://84.54.51.78:6969/announce
 udp://88.80.22.67:2710/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
+udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
 udp://91.186.213.204:6969/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -1096,7 +1099,6 @@ udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
-udp://ibksturm.synology.me:6969/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
@@ -1124,8 +1126,6 @@ udp://nagios.tks.sumy.ua:80/announce
 udp://new-line.net:6969/announce
 udp://newtoncity.org:6969/announce
 udp://node01.madtia.cc:42069/announce
-udp://node01.torrentonline.cc:42069/announce
-udp://node02.madtia.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -1269,7 +1269,6 @@ udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.wepzone.net:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
